@@ -1,0 +1,24 @@
+<svg width="42" height="42" viewBox="0 0 42 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M32.75 17C32.75 16.8619 32.8619 16.75 33 16.75L38 16.75C38.1381 16.75 38.25 16.8619 38.25 17L38.25 32.0386C38.25 32.1203 38.21 32.1969 38.143 32.2437L35.643 33.9862C35.5571 34.046 35.4429 34.046 35.357 33.9862L32.857 32.2437C32.79 32.1969 32.75 32.1203 32.75 32.0386L32.75 17Z" stroke="#39B54A" stroke-width="1.5"/>
+<path d="M35.5 34L35.5 39" stroke="#39B54A" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M32 21H39" stroke="#39B54A" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="3.75" y="2.75" width="22.5" height="36.5" rx="2.25" stroke="#39B54A" stroke-width="1.5"/>
+<mask id="path-5-inside-1_459_322" fill="white">
+<rect x="6" y="5" width="18" height="18" rx="1"/>
+</mask>
+<rect x="6" y="5" width="18" height="18" rx="1" stroke="#39B54A" stroke-width="3" mask="url(#path-5-inside-1_459_322)"/>
+<mask id="path-6-inside-2_459_322" fill="white">
+<rect x="6" y="30" width="7" height="7" rx="1"/>
+</mask>
+<rect x="6" y="30" width="7" height="7" rx="1" stroke="#39B54A" stroke-width="3" mask="url(#path-6-inside-2_459_322)"/>
+<mask id="path-7-inside-3_459_322" fill="white">
+<rect x="11.5" y="30" width="7" height="7" rx="1"/>
+</mask>
+<rect x="11.5" y="30" width="7" height="7" rx="1" stroke="#39B54A" stroke-width="3" mask="url(#path-7-inside-3_459_322)"/>
+<mask id="path-8-inside-4_459_322" fill="white">
+<rect x="17" y="30" width="7" height="7" rx="1"/>
+</mask>
+<rect x="17" y="30" width="7" height="7" rx="1" stroke="#39B54A" stroke-width="3" mask="url(#path-8-inside-4_459_322)"/>
+<path d="M26.25 6C26.25 5.86193 26.3619 5.75 26.5 5.75L28.7457 5.75C28.8573 5.75 28.9554 5.82399 28.9861 5.93132L29.7004 8.43132C29.7132 8.47621 29.7132 8.52379 29.7004 8.56868L28.9861 11.0687C28.9554 11.176 28.8573 11.25 28.7457 11.25L26.5 11.25C26.3619 11.25 26.25 11.1381 26.25 11L26.25 6Z" stroke="#39B54A" stroke-width="1.5"/>
+<path d="M30 8H32.5C34.1569 8 35.5 9.34315 35.5 11V17" stroke="#39B54A" stroke-width="1.5"/>
+</svg>
